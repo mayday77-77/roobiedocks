@@ -1,0 +1,8 @@
+- i am not of a developer background, i am more of a systems/infrastructure person
+- however i have written shell scripts in unix and have learnt/written programming languages like C++, java etc. in my academic years
+- want to test myself how far i can go in terms of programming
+- wanting to actually know what python, ruby, scala, etc is and so i chose one of them to start
+- but for now i am not sure where this will go in terms of career, i just want to test myself if i am good in this? and hope to use ruby some time in my career
+- maybe the questions i have for ruby developer:
+	1) in terms of career, do you think this will compliment a systems person?
+	2) what is the value of ruby or ruby on rails right now?

@@ -1,0 +1,25 @@
+- i am a systems/infrastructure person who dabbles with unix, servers, network, databases, etc
+- skillsets that i have:
+	Scope of work experience
+	•	Technical Deployment, Systems Integration, Technical Support, Project Delivery, Technical Documentation, Infrastructure Support, Production Support
+	Operating Systems:
+	•	Linux(Red Hat) , IBM AIX, Solaris, HP-UX
+	Databases:
+	•	Oracle, MySql
+	Web Knowledge:
+	•	HTML, CSS
+	IP Networking:
+	•	Cisco switches, F5 Big-IP ADC, BNT switches, Alteon ADC, Checkpoint Firewall, TCP/IP knowledge 
+	Scripting:
+	•	Shell scripting
+	Middleware:
+	•	Websphere, Weblogic, Jboss
+	Virtualization:
+	•	VMware Workstation, VMware vSphere
+	Industry Standard protocols:
+	•	HTTP, TCP, UDP, FTP, SSH, SSL, DNS, SMTP, SNMP, etc.
+	Others:
+	•	Knowledge of Java, SQL
+
+- i am a unix person, so i am learning this by setting up a Linux VM in my laptop and using Ruby on unix which i feel more comfortable in
+- based on past experiences in shell scripting/unix/web knowledge, i believe the same logic can be applied, just a matter of syntax learning

@@ -1,0 +1,3 @@
+- just trying to understand what Ruby is about
+- at the end of the course, hope to be have a good OO language to be put in my resume
+- as of whether i will become a ruby developer in my career later, i dont have any idea about it yet
